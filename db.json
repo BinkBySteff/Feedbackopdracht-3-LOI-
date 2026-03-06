@@ -11,7 +11,7 @@
     {
       "id": 2,
       "propertyAddress": "Kerkstraat 8, Tilburg",
-      "inspectorName": "Emma Johnson",
+      "inspectorName": "Emma van Houten",
       "inspectionDate": "2026-02-14",
       "status": "completed",
       "notes": "Roof tiles need replacement"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "propertyAddress": "Singel 101, Dordrecht",
-      "inspectorName": "Olivia Brown",
+      "inspectorName": "Anouk Koppens",
       "inspectionDate": "2026-02-20",
       "status": "completed",
       "notes": "Electrical outlets need inspection"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "propertyAddress": "Stationsplein 3, Rotterdam",
-      "inspectorName": "Liam Wilson",
+      "inspectorName": "Wim Gruiters",
       "inspectionDate": "2026-02-25",
       "status": "completed",
       "notes": "Paint damage in hallway"
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "propertyAddress": "Havenstraat 44, Eindhoven",
-      "inspectorName": "Sophia Davis",
+      "inspectorName": "Dennis Vennink",
       "inspectionDate": "2026-03-01",
       "status": "completed",
       "notes": "Water pressure low in kitchen"
