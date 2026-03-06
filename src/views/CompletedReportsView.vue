@@ -94,7 +94,7 @@ interface Inspection {
 }
 
 const API_URL =
-  'https://my-json-server.typicode.com/BinkBySteff/LOI-Feedbackopdracht_2/inspections'
+  'https://my-json-server.typicode.com/BinkBySteff/Feedbackopdracht-3-LOI-/inspections'
 
 const inspections = ref<Inspection[]>([])
 const selectedInspection = ref<Inspection | null>(null)

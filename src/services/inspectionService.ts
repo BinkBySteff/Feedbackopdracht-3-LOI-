@@ -1,6 +1,6 @@
 import type { Inspection } from '@/models/Inspection'
 
-const API_URL = 'https://my-json-server.typicode.com/BinkBySteff/LOI-Feedbackopdracht_2/inspections'
+const API_URL = 'https://my-json-server.typicode.com/BinkBySteff/Feedbackopdracht-3-LOI-/inspections'
 
 export async function fetchInspections(): Promise<Inspection[]> {
   const response = await fetch(API_URL)
