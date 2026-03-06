@@ -1,5 +1,6 @@
 import type { Inspection } from '@/models/Inspection'
 
+// Mockup API middels MyJSONServer
 const API_URL = 'https://my-json-server.typicode.com/BinkBySteff/Feedbackopdracht-3-LOI-/inspections'
 
 export async function fetchInspections(): Promise<Inspection[]> {
