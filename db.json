@@ -5,40 +5,40 @@
       "propertyAddress": "Paul krugerlaan 2, Breda",
       "inspectorName": "Hans van kerken",
       "inspectionDate": "2026-02-10",
-      "status": "completed",
-      "notes": "Minor moisture damage in bathroom"
+      "status": "voltooid",
+      "notes": "Lichte vochtschade in badkamer"
     },
     {
       "id": 2,
       "propertyAddress": "Kerkstraat 8, Tilburg",
-      "inspectorName": "Emma van Houten",
+      "inspectorName": "Dennis Vennink",
       "inspectionDate": "2026-02-14",
-      "status": "completed",
-      "notes": "Roof tiles need replacement"
+      "status": "voltooid",
+      "notes": "Dakpannen moeten vervangen worden"
     },
     {
       "id": 3,
       "propertyAddress": "Singel 101, Dordrecht",
-      "inspectorName": "Anouk Koppens",
+      "inspectorName": "Peter Koppens",
       "inspectionDate": "2026-02-20",
-      "status": "completed",
-      "notes": "Electrical outlets need inspection"
+      "status": "voltooid",
+      "notes": "Stopcontacten moeten gecontroleerd worden"
     },
     {
       "id": 4,
       "propertyAddress": "Stationsplein 3, Rotterdam",
       "inspectorName": "Wim Gruiters",
       "inspectionDate": "2026-02-25",
-      "status": "completed",
-      "notes": "Paint damage in hallway"
+      "status": "voltooid",
+      "notes": "Verfschade in de hal"
     },
     {
       "id": 5,
       "propertyAddress": "Havenstraat 44, Eindhoven",
       "inspectorName": "Dennis Vennink",
       "inspectionDate": "2026-03-01",
-      "status": "completed",
-      "notes": "Water pressure low in kitchen"
+      "status": "voltooid",
+      "notes": "Waterdruk in de keuken te laag"
     }
   ]
 }
