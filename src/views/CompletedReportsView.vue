@@ -31,20 +31,20 @@
           </ion-list>
 
           <div v-if="selectedInspection" class="detail-card">
-            <h3 class="detail-title">Inspection details</h3>
+            <h3 class="detail-title">Inspectiedetails</h3>
 
             <div class="detail-row">
-              <div class="detail-label">Address</div>
+              <div class="detail-label">Adres</div>
               <div class="detail-value">{{ selectedInspection.propertyAddress }}</div>
             </div>
 
             <div class="detail-row">
-              <div class="detail-label">Inspector</div>
+              <div class="detail-label">Inspecteur</div>
               <div class="detail-value">{{ selectedInspection.inspectorName }}</div>
             </div>
 
             <div class="detail-row">
-              <div class="detail-label">Date</div>
+              <div class="detail-label">Datum</div>
               <div class="detail-value">{{ formatDate(selectedInspection.inspectionDate) }}</div>
             </div>
 
@@ -54,7 +54,7 @@
             </div>
 
             <div class="detail-row">
-              <div class="detail-label">Notes</div>
+              <div class="detail-label">Notities</div>
               <div class="detail-value">{{ selectedInspection.notes }}</div>
             </div>
 

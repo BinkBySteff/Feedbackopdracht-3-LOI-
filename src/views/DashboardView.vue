@@ -14,7 +14,7 @@
           <div class="recare-tile tile-toegewezen">
             <div class="recare-tile-content">
               <h3 class="recare-tile-title">Toegewezen</h3>
-              <p class="recare-tile-subtitle">5 openstaande inspecties</p>
+              <p class="recare-tile-subtitle">4 openstaande inspecties</p>
             </div>
           </div>
         </a>
@@ -23,7 +23,7 @@
           <div class="recare-tile tile-uitgevoerd">
             <div class="recare-tile-content">
               <h3 class="recare-tile-title">Uitgevoerd</h3>
-              <p class="recare-tile-subtitle">12 afgerond</p>
+              <p class="recare-tile-subtitle">5 afgerond</p>
             </div>
           </div>
         </a>

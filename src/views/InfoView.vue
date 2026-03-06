@@ -8,7 +8,7 @@
           <h3 class="card-title">Over LOI RealEstateCare Case</h3>
           <p>
             Mijn naam is Steffen Aerts en voor de module Front-end, onderdeel frameworks, heb ik
-            deze applicatie ontwikkeld. Inzendcode: 32411FA2 Leidse Onderwijsinstellingen.
+            deze applicatie ontwikkeld. Inzendcode: 32411FA3 Leidse Onderwijsinstellingen.
           </p>
         </div>
 
