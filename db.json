@@ -1,0 +1,44 @@
+{
+  "inspections": [
+    {
+      "id": 1,
+      "propertyAddress": "Paul krugerlaan 2, Breda",
+      "inspectorName": "Hans van kerken",
+      "inspectionDate": "2026-02-10",
+      "status": "completed",
+      "notes": "Minor moisture damage in bathroom"
+    },
+    {
+      "id": 2,
+      "propertyAddress": "Kerkstraat 8, Tilburg",
+      "inspectorName": "Emma Johnson",
+      "inspectionDate": "2026-02-14",
+      "status": "completed",
+      "notes": "Roof tiles need replacement"
+    },
+    {
+      "id": 3,
+      "propertyAddress": "Singel 101, Dordrecht",
+      "inspectorName": "Olivia Brown",
+      "inspectionDate": "2026-02-20",
+      "status": "completed",
+      "notes": "Electrical outlets need inspection"
+    },
+    {
+      "id": 4,
+      "propertyAddress": "Stationsplein 3, Rotterdam",
+      "inspectorName": "Liam Wilson",
+      "inspectionDate": "2026-02-25",
+      "status": "completed",
+      "notes": "Paint damage in hallway"
+    },
+    {
+      "id": 5,
+      "propertyAddress": "Havenstraat 44, Eindhoven",
+      "inspectorName": "Sophia Davis",
+      "inspectionDate": "2026-03-01",
+      "status": "completed",
+      "notes": "Water pressure low in kitchen"
+    }
+  ]
+}
